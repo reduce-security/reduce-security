@@ -1,7 +1,7 @@
 {
   "version": "1.4.0",
   "messages": {
-    "start": "Started ^2successfully^0, thank you for your purchase",
-    "update": "Your version is out of date, please download {version.new}"
+    "start": "Started ^2successfully^0, thank you for your purchase.",
+    "update": "Your version is out of date, please download {version.new}!"
   }
 }
