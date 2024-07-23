@@ -1,5 +1,5 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "messages": {
     "start": "Started ^2successfully^0, thanks for your purchase.",
     "update": "Your version is ^1out of date^0, please download ^2{version.new}^0!"
